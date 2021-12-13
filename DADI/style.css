@@ -1,0 +1,21 @@
+
+html, body{
+    background-color: black;
+    min-height: 100%;
+    width: 100vw;
+}
+h1,h2{
+    color: white;
+}
+.row{
+    background-color: black;
+}
+div img{
+    width: 100%;
+    display: none;
+}
+
+.active{
+    display: block;
+}
+
